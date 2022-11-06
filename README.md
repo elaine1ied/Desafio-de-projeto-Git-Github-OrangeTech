@@ -4,7 +4,8 @@
  <p>Os passos a ser executados sera: Criação, atualização e sincronização de um repositorio.
 
  Atualizar dados para conhecimento com Git e Git Hub
- ##Aprender e evoluir faz parte do nosso dia a dia
+
+ ##Aprender e Evoluir faz parte da vida!
 
 ##Repositorio Criado para Desafio-de-Pojeto
 
