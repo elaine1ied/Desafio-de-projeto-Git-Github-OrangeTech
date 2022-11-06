@@ -3,6 +3,9 @@
  Este projeto é o primeiro repositorio para GitHub, onde vou mostrar o inicio de um aprendizado.
  <p>Os passos a ser executados sera: Criação, atualização e sincronização de um repositorio.
 
+ Atualizar dados para conhecimento com Git e Git Hub
+ ##Aprender e evoluir faz parte do nosso dia a dia
+
 ##Repositorio Criado para Desafio-de-Pojeto
 
 Formação: Graduação, Cursando pós-Graduação
